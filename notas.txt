@@ -1,0 +1,11 @@
+estas son unas ideas 
+el primer grafico puede ser como esta en el codigo que es un grafico de barra 
+y que el el eje (y) esten los accidentes y en el eje (x) tenia pensado entre los dias de la semana o los meses  como agrege un filtro de años podriamos ocuparlo mas facil y asi poder 
+filtrar por años 
+
+grafico 2 :
+un grafico de lineas puede ser casi parecido al primero pero en este caso en el eje x tambien tenia pensado los meses 
+creo que se puede utilizar parte del codigo anterior para hacer este y creo que seria cambiarle un par de cosas solanmente 
+
+grafico 3 : podria ser un grafico de torta como cuales fueron las condiciones climaticas que fueron 
+los que mas causaron accidentes 
